@@ -1,0 +1,10 @@
+com\example\TradeManagement\AppConfig.class
+com\example\TradeManagement\Model\Stock.class
+com\example\TradeManagement\Model\Service\StockService.class
+com\example\TradeManagement\Model\Trader.class
+com\example\TradeManagement\Model\StockApiResponse.class
+com\example\TradeManagement\TradeManagementApplication.class
+com\example\TradeManagement\Model\Service\TraderService.class
+com\example\TradeManagement\Controller\TraderController.class
+com\example\TradeManagement\Model\TraderRepository.class
+com\example\TradeManagement\Controller\AuthController.class
